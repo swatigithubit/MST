@@ -14,3 +14,4 @@ here we take two array 1: parents array ,2: rank array/size array
 5: after that one by one get all the elements from priotirt queue and find ultimate parent then rank after that according to rank merge them , then reapeat till (edges!vertices-1); 
 
 6: return cost.
+#it also consist of other file
